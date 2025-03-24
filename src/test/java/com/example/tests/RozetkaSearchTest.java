@@ -1,5 +1,6 @@
 package com.example.tests;
 
+import com.example.BaseTest;
 import com.example.pages.RozetkaMainPage;
 import org.testng.annotations.Test;
 
