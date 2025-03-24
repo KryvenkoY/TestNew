@@ -1,7 +1,7 @@
-package com.example.tests;
+package com.example.Test1;
 
 
-import com.example.pages.HomePage;
+import com.example.Test1.pages.HomePage;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.testng.Assert;

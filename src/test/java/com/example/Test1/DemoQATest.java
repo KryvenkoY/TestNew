@@ -1,4 +1,4 @@
-package com.example.DemoTest;
+package com.example.Test1;
 
 import org.openqa.selenium.*;
 import org.openqa.selenium.support.ui.ExpectedConditions;

@@ -1,6 +1,6 @@
-package com.example.tests;
+package com.example.Test1;
 
-import com.example.pages.PracticeFormPage;
+import com.example.Test1.pages.PracticeFormPage;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.testng.annotations.AfterClass;

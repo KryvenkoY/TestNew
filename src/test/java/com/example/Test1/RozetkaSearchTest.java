@@ -1,7 +1,6 @@
-package com.example.tests;
+package com.example.Test1;
 
-import com.example.BaseTest;
-import com.example.pages.RozetkaMainPage;
+import com.example.Test1.pages.RozetkaMainPage;
 import org.testng.annotations.Test;
 
 import static org.testng.Assert.assertTrue;
